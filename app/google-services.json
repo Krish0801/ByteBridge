@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915571193678",
+    "project_id": "team-smarties",
+    "storage_bucket": "team-smarties.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915571193678:android:837f40176bb850ac3b901f",
+        "android_client_info": {
+          "package_name": "com.itc.teamsmarties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915571193678-icnvp2duela8g67u2qfon4cudiq2bp11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXIAkf2aafDLBech8vKclI3_eQZcPOGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915571193678-icnvp2duela8g67u2qfon4cudiq2bp11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ByteBridge</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="details_screen_postId">details_screen/{postId}</string>
+</resources>
