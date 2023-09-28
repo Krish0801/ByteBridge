@@ -14,7 +14,6 @@ This Reddit Api as:
   <img src="app/src/main/Img_3.png" width="250" />
   <img src="app/src/main/Img_4.png" width="250" />
   <img src="app/src/main/Img_5.png" width="250" />
-  <img src="app/src/main/Img_6.png" width="250" />
 </p>
 
 ByteBridge is still under development in testing as well as some pages.
